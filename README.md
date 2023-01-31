@@ -1,2 +1,1 @@
-# Bioinformatics-DNA-Count
-DNA Nucleotide Count Web App
+Deployment of stock-Price application-: https://vaibhavamr-bioinformatics-dna-count-myapp2-w59cwb.streamlit.app/
